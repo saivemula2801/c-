@@ -1,0 +1,18 @@
+lahari 21 501 jkcs svcs jacs jkec svec jaec jkcv jkme
+jahnavi 24 502 jkcs svcs jacs jkec svec jkme svme nl
+sravya 47 503  jkcs svcs jacs jkec svec jaec jkme svme
+mounika 66 504 jkcs svcs jacs jkec svec jaec jkme jame
+bhanu 9 505 jkcs svcs jacs jkec nl nl nl nl
+manideep 28 506 jkcs svcs jacs jkec svec jame svme jacv
+sai 7 507  jkcs svcs jacs jkec nl nl nl nl
+sucharitha 8 508 jkcs svcs jacs jkec svec nl nl nl
+sivapriya 27 509 jkcs svcs jacs jkec svec jaec jkme svme 
+harsha 5 510 jkcs svcs jacs nl nl nl nl nl
+haritha 30 511 jkcs svcs jacs jkec svec jaec jkme svme
+mrudula 25 512 jkcs jkec jkme svcs svec svme jacs jaec
+dhamu 27 513 jkcs svcs jacs jkec svec jaec jkme svme
+chandramouli 35 515 jkcs jkec jkme svcs svec svme jacs jaec
+bhushan 32 516 jkcs jkec jkme svcs svec svme jacs jaec
+sriya 43 517 jkcs svcs jacs jkec svec jaec jkme svme jame
+
+
